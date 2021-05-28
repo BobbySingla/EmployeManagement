@@ -12,6 +12,7 @@
     <artifactId>employeManager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>employeManager</name>
+    <packaging>war</packaging>
     <description>Employee Manager Application</description>
     <properties>
         <java.version>14</java.version>
