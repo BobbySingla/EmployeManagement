@@ -16,4 +16,4 @@ Employee Management is the application which enables you to add new employee or 
 
 Prerequisites:  java 16, docker, maven, node.js(npm), typescript and angular must be installed in your system.
 
-Follow setupGuide.docx for setting up project in your local systel.
+**Follow setupGuide.docx for setting up project in your local system.**
